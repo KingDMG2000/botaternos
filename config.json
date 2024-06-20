@@ -1,0 +1,13 @@
+{
+  "client": {
+    "host": "Lospapusl.aternos.me",
+    "port": "28657",
+    "username": "Bot2024"
+  },
+  "logLevel": ["error", "log", "debug"],
+  "action": {
+    "commands": ["forward", "back", "left", "right", "jump"],
+    "holdDuration": 5000,
+    "retryDelay": 15000
+  }
+}
